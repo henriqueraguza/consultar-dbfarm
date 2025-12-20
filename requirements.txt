@@ -1,0 +1,6 @@
+playwright
+sqlalchemy
+numpy
+pandas
+sys
+asyncio
